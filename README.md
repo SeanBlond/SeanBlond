@@ -1,4 +1,4 @@
-### About Me
+# About Me
 Hello! I'm Sean, a Sophmore college student pursuing Game & Graphics Programming. Favorite Programming Languages & Tools: C++, C#, Python, GLSL, Unity, and OpenGL (w/ GLFW)
 
 ## Current Projects
