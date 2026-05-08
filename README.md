@@ -2,5 +2,5 @@
 Hello! I'm Sean, a Sophmore college student pursuing Game & Graphics Programming. Favorite Programming Languages & Tools: C++, C#, Python, GLSL, Unity, and OpenGL (w/ GLFW)
 
 ## Current Projects
-Right now I'm working on [Blunder](https://github.com/SeanBlond/Blunder), an open source Rendering Software centered around customizable shader code. It's in it's very early stages right now, and isn't really useable.
-I also have dreams of one day making an open source Adobe Lightroom alternative, but that's a future project for after Blunder.
+Recently started work on Shake, a non-destructive image editor meant for photographers. Right now it's in it's very early stages, so it won't really be available to the public until it's mostly functional.
+I've mostly stopped working on [Blunder](https://github.com/SeanBlond/Blunder), as I stopped having motivation to work on it, especially with the mountain of features I wanted it to have. I might come back to it after I'm happy with Shake.
